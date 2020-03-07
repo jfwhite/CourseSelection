@@ -16,8 +16,8 @@ Algorithm for choosing Princeton courses based on binary search
 
 Usage:
 
-$ python create.py
+$ python create_table.py
 
-$ python write.py
+$ python insert_data.py
 
-$ python read.py
+$ python interact_with_user.py
