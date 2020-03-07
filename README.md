@@ -2,7 +2,7 @@
 
 Algorithm for choosing Princeton courses based on binary search
 
-- courses.db is the database file. It stores the coursedata table.
+- courses.db is the database file
 
 - courses.json stores data about Spring '17 courses in JSON format
 
