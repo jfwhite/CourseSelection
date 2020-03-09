@@ -11,9 +11,9 @@ statement = "create table if not exists coursedata ({}, {}, {}, {}, {})"
 statement = statement.format(
 	"course_id text primary key",
 	"course_title text", 
-	"course_level int", 
-	"course_category int", # How STEMmy the course is
-	"course_enrollment int", 
+	"course_level integer", 
+	"course_category integer", # How STEMmy the course is
+	"course_enrollment integer", 
 )
 c.execute(statement)
 
