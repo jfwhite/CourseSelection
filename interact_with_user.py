@@ -1,4 +1,3 @@
-# There is a tradeoff between using numpy and sqlite3 for different things
 import sqlite3
 import numpy as np
 import pandas as pd
